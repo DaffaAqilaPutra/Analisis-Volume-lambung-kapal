@@ -4,7 +4,7 @@
 **NPM:** 25083010016
 **Mata kuliah:** Analisis Numerik
 
-Repository ini berisi penyelesaian Tugas 2: menghitung volume kedua lambung kapal katamaran fiberglass (untuk wisata pancing) menggunakan integrasi numerik.
+Repository ini berisi penyelesaian Tugas 2: menghitung volume kedua lambung kapal katamaran menggunakan integrasi numerik.
 
 ## Soal dan Ketentuan
 
