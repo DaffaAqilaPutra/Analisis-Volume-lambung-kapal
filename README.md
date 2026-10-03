@@ -51,7 +51,3 @@ Selisih kedua metode hanya sekitar 0,1%, sehingga hasilnya konsisten.
 1. Buka file `.ipynb` di Google Colab (atau Jupyter Notebook).
 2. Pilih **Runtime > Restart and run all**.
 3. Library yang dipakai: `numpy`, `pandas`, `matplotlib`.
-
-## Sumber Gambar
-
-Gambar desain kapal berasal dari soal tugas (sumber: ResearchGate, *Desain dan Konstruksi Perahu Katamaran Fiberglass untuk Wisata Pancing*).
