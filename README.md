@@ -6,13 +6,6 @@
 
 Repository ini berisi penyelesaian Tugas 2: menghitung volume kedua lambung kapal katamaran fiberglass (untuk wisata pancing) menggunakan integrasi numerik.
 
-## Isi Repository
-
-| File | Keterangan |
-|---|---|
-| `25083010016_Daffa_Aqila_Putra_ANUM_Volume_Kedua_Lambung_Kapal.ipynb` | Notebook Python (Google Colab) berisi perhitungan, tabel, grafik, dan kesimpulan |
-| `README.md` | Penjelasan singkat tugas ini |
-
 ## Soal dan Ketentuan
 
 - Satu *dash-kosong* pada grid = 5 + 5 cm.
